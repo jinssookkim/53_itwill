@@ -1,4 +1,4 @@
-
+https://interactive.krihs.re.kr/interactive/monitoringIndex/index.html
 KRIHS의 인터랙티브 리포트 참고:
 
 여기에 지역경제활력도라는 지수가 있음.
